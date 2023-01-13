@@ -2,7 +2,7 @@
 
 # Introducción - Capacitación NodeJS
 
-Este proyecto es parte de una capacitación que se lleva a cabo dentro de Nubi. La misma estará compuesta por el dictado de varias charlas explicativas, y el desarrollo de un **sistema para facilitar el proceso de refinamiento** de equipos que trabajen con Scrum como metodología ágil.
+Este proyecto es parte de una capacitación. La misma estará compuesta por el dictado de varias charlas explicativas, y el desarrollo de un **sistema para facilitar el proceso de refinamiento** de equipos que trabajen con Scrum como metodología ágil.
 
 La siguiente capacitación tiene como objetivo adquirir habilidad de código en **NodeJS** para poder desarrollar soluciones o implementaciones con módulos que correrán en un servidor (backend), así como mantenimiento de los mismos.
 
